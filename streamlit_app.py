@@ -441,3 +441,5 @@ if st.button("Predict"):
     st.subheader("Prediction Result")
     st.write(f"Prediction Score: {prediction[0][0]:.4f}")
     st.write(f"Result of prediction: {result}")
+
+
